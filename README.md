@@ -1,4 +1,6 @@
 ## Hi. I'm Full Stack Programmer
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Hello+I'm+Mirxon;Python+Developer;Future+Cyber+Security+Expert)
 <!--
 **mirabzalovmirxon1/mirabzalovmirxon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
