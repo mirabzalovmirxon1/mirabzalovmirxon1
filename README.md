@@ -1,7 +1,4 @@
-![Salom!](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-## Hi there 👋
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-
+## Hi. I'm Full Stack Programmer
 <!--
 **mirabzalovmirxon1/mirabzalovmirxon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
